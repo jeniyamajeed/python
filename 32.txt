@@ -1,0 +1,41 @@
+• Suppose we have developed a very large application that
+includes many modules. As the number of modules grows, it
+becomes difficult to keep track of them as they have similar
+names or functionality.
+• It is necessary to group and organize them by some mean
+which can be achieved by packages.
+• A package is a hierarchical file directory structure that defines
+a single python application environment that comprises of
+modules and subpackages and sub-subpackages and so on.
+• Packages allow for a hierarchical structuring of the module
+namespace using dot notation.
+• Packages are a way of structuring many packages and modules
+which help in a well organized hierarchy of data set, making
+the directories and modules easy to access.
+• A package is a collection of python modules i.e. a package is a
+directory of python modules containing an additional _
+_init_ _.py file. E.g Phone/_ _init_ _.py
+
+• To create a package in Python, we need to follow these three
+simple steps:
+1. First, we create a directory and give it a package name,
+preferably related to its operation.
+2. Then we put the classes and the required functions in it.
+3. Finally we create an __init__.py file inside the directory, to let
+Python know that the directory is a package
+
+Using Standard PackagesMath:
+• Some of the most popular mathematical functions are defined in
+the math module. These includes trigonometric functions,
+representation functions, logarithmic functions and angle
+conversion functions.
+• Two mathematical constants are also defined in math module.
+• Pie( ∏ ) is a well known mathematical constant which is
+defined as the ratio of the circumference to the diameter of a
+circle and its value is 3.141592653589793
+NumPy:
+• NumPy is the fundamental package for scientific computing
+with python.
+• NumPy stands for “Numeric Python”.
+• It provides a high performance multidimensional array object
+and tools for working with these arrays.

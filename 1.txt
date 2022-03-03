@@ -1,0 +1,12 @@
+An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. These tools usually include:
+
+An editor designed to handle code (with, for example, syntax highlighting and auto-completion)
+Build, execution, and debugging tools
+Some form of source control
+
+PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python programming language. It is developed by the Czech company JetBrains (formerly known as IntelliJ). It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems (VCSes), and supports web development with Django as well as data science with Anaconda.
+
+PyCharm is cross-platform, with Windows, macOS and Linux versions. The Community Edition is released under the Apache License, and there is also Professional Edition with extra features – released under a subscription-funded proprietary license and also an educational version.
+
+PyDev is a third-party plug-in for Eclipse. It is an Integrated Development Environment (IDE) used for programming in Python supporting code refactoring, graphical debugging, code analysis among other features.PyDev was originally created by Aleks Totic in July 2003, but Fabio Zadrozny became the project's main developer in January 2005. In September of that same year, PyDev Extensions was started as a commercial counterpart of PyDev, offering features such as code analysis and remote debugging.
+
